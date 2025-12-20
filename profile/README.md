@@ -1,16 +1,24 @@
-Zhovten Games is a two-person independent studio working at the intersection of systems design and narrative. As long-term creative and production partners, we focus on connecting game mechanics, story structure and monetisation into a coherent player experience. Our background combines 10+ years in full-stack web development, infrastructure and production with 4+ years in game narrative design, including shipped HOPA titles in the Whispered Secrets and Mystery Case Files franchises.
+## Focus
 
-We build our own games and universes (including the horror metaverse InterDad) and support other teams as an external partner.
+I help game teams design and ship narrative-driven game systems — core loops, progression and story structures that work in real production, not just on paper.
 
-How we help studios and productions (outsourcing / external support):
+I work as a narrative designer and producer, collaborating closely with a long-term technical and systems partner. Together, we connect game mechanics, narrative structure and monetisation into coherent, implementable player experiences.
 
- - Creating immersive horror websites and mini-ARGs that exist inside a film or game universe.
- - Game design & narrative consulting: from core loops and systems to story structure, quests and dialogue.
- - Designing and prototyping gameplay subsystems at engine level, integrating story into mechanics and UX.
- - Monetisation and game economy support: helping teams shape fair, sustainable monetisation for premium, hybrid and F2P/mobile projects, including economy loops, pricing and live-ops hooks.
+### Experience
 
-What we’re good at:
+Our background includes HOPA titles (including shipped projects in the Whispered Secrets and Mystery Case Files franchises), mobile game design with in-game economies, and startup projects where we worked across design, production and technical decision-making.
 
- - Systems thinking and the ability to structure complex yet readable quest logic, branching and progression.
- - Strong sense of tone, pacing and emotional rhythm in narrative.
- - Owning the full pipeline from idea and documentation to implementation and maintainable workflows.
+We work on our own original projects and as an external partner for studios that need narrative-driven systems thinking and reliable execution across disciplines.
+
+### Services
+
+• Narrative design & story consulting: story structure, quests, dialogue, pacing and tone.
+• Systems-driven narrative: aligning progression, mechanics and emotional beats.
+• Gameplay systems design support, working closely with technical implementation.
+• Monetisation and game economy design for premium, hybrid and mobile projects: economy loops, pricing logic and live-ops hooks.
+
+### Strengths
+
+• Structuring complex yet readable quest logic, branching and progression.
+• Translating narrative ideas into systems that teams can realistically implement and maintain.
+• Owning the pipeline from concept and documentation to implementation-ready designs.
