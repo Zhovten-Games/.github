@@ -12,13 +12,13 @@ We work on our own original projects and as an external partner for studios that
 
 ### Services
 
-• Narrative design & story consulting: story structure, quests, dialogue, pacing and tone.
-• Systems-driven narrative: aligning progression, mechanics and emotional beats.
-• Gameplay systems design support, working closely with technical implementation.
-• Monetisation and game economy design for premium, hybrid and mobile projects: economy loops, pricing logic and live-ops hooks.
+- Narrative design & story consulting: story structure, quests, dialogue, pacing and tone.
+- Systems-driven narrative: aligning progression, mechanics and emotional beats.
+- Gameplay systems design support, working closely with technical implementation.
+- Monetisation and game economy design for premium, hybrid and mobile projects: economy loops, pricing logic and live-ops hooks.
 
 ### Strengths
 
-• Structuring complex yet readable quest logic, branching and progression.
-• Translating narrative ideas into systems that teams can realistically implement and maintain.
-• Owning the pipeline from concept and documentation to implementation-ready designs.
+- Structuring complex yet readable quest logic, branching and progression.
+- Translating narrative ideas into systems that teams can realistically implement and maintain.
+- Owning the pipeline from concept and documentation to implementation-ready designs.
