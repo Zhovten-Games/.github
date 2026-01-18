@@ -1,6 +1,6 @@
 ## Focus
 
-We help game teams design and ship narrative-driven game systems — core loops, progression and story structures that work in real production, not just on paper.
+We help game teams design and implement narrative-driven game systems — core loops, progression and story structures that work in real production, not just on paper.
 
 I work as a narrative designer and producer, collaborating closely with a long-term technical and systems partner. Together, we connect game mechanics, narrative structure and monetisation into coherent, implementable player experiences.
 
