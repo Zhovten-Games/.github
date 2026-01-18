@@ -25,10 +25,10 @@ We work on our own original projects and as an external partner for studios that
 
 ## Team
 
-@FOP-Oksana-Dubinetska  
+[@FOP-Oksana-Dubinetska](https://github.com/FOP-Oksana-Dubinetska)  
 **Narrative Designer & Producer**  
 Leads narrative design, story structure, quest logic and production coordination across projects.
 
-@pan-canon  
+[@pan-canon](https://github.com/pan-canon)  
 **Technical & Systems Design Partner**  
-Responsible for gameplay systems architecture, technical implementation, and system-level integration.
+Leads gameplay systems architecture, technical implementation, and system-level integration.
