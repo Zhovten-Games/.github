@@ -1,6 +1,6 @@
 ## Focus
 
-I help game teams design and ship narrative-driven game systems — core loops, progression and story structures that work in real production, not just on paper.
+We help game teams design and ship narrative-driven game systems — core loops, progression and story structures that work in real production, not just on paper.
 
 I work as a narrative designer and producer, collaborating closely with a long-term technical and systems partner. Together, we connect game mechanics, narrative structure and monetisation into coherent, implementable player experiences.
 
@@ -22,3 +22,13 @@ We work on our own original projects and as an external partner for studios that
 - Structuring complex yet readable quest logic, branching and progression.
 - Translating narrative ideas into systems that teams can realistically implement and maintain.
 - Owning the pipeline from concept and documentation to implementation-ready designs.
+
+## Team
+
+@FOP-Oksana-Dubinetska  
+**Narrative Designer & Producer**  
+Leads narrative design, story structure, quest logic and production coordination across projects.
+
+@pan-canon  
+**Technical & Systems Design Partner**  
+Responsible for gameplay systems architecture, technical implementation, and system-level integration.
