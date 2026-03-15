@@ -1,8 +1,22 @@
+<details>
+<summary>How did I end up here?</summary>
+
+Through the mysterious will of the Great Random.
+
+More precisely: the **Phantom Draft** horror blog has been retired and its root URL now redirects here — to the GitHub of the studio.
+
+If you followed an old link and landed here, nothing is broken.
+
+If you are looking for something from Phantom Draft, write to us.  
+If it exists in the archive, we will gladly send it.
+
+</details>
+
 ## Focus
 
-We help game teams design and implement narrative-driven game systems — core loops, progression and story structures that work in real production, not just on paper.
+We operate as a small narrative-driven team combining narrative design, production and systems engineering. Together we connect game mechanics, narrative structure and monetisation into coherent, implementable player experiences.
 
-I work as a narrative designer and producer, collaborating closely with a long-term technical and systems partner. Together, we connect game mechanics, narrative structure and monetisation into coherent, implementable player experiences.
+We help game teams design and implement narrative-driven game systems — core loops, progression and story structures that work in real production, not just on paper.
 
 ### Experience
 
@@ -23,6 +37,8 @@ We work on our own original projects and as an external partner for studios that
 - Translating narrative ideas into systems that teams can realistically implement and maintain.
 - Owning the pipeline from concept and documentation to implementation-ready designs.
 
+---
+
 ## Team
 
 [@FOP-Oksana-Dubinetska](https://github.com/FOP-Oksana-Dubinetska)  
@@ -32,3 +48,38 @@ Leads narrative design, story structure, quest logic and production coordination
 [@pan-canon](https://github.com/pan-canon)  
 **External Game Development Partner**  
 Leads gameplay systems architecture, technical implementation, and system-level integration.
+
+---
+
+# 📡 Project Updates
+
+> **February Umbrella Update ☂️**  
+> System restructuring month for InterDead.
+
+February was not about individual publications —  
+it was about restructuring the project architecture.
+
+| Layer | What changed |
+|------|--------------|
+| **Canon as a Contract** | Canon discipline formalized through a public wiki and SSOT |
+| **Reproducible Artifact Pipeline** | Video pipeline: `ASR → LLM → FFmpeg` |
+| **Communication Architecture** | Unified project voice through the system character **Niro** |
+
+**Results**
+
+- 65–75% reduction in video production time  
+- stronger stylistic control  
+- unified project communication layer
+
+**Cases**
+
+Case 1 — Canon discipline  
+https://lnkd.in/euKNTEZ3
+
+Case 2 — Artifact pipeline  
+https://lnkd.in/eYkARzCk
+
+Case 3 — Communication architecture  
+https://lnkd.in/estYrB87
+
+Next step: **prototype update** → then narrative and world development.
