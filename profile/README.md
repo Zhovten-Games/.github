@@ -51,7 +51,7 @@ Leads gameplay systems architecture, technical implementation, and system-level 
 
 ---
 
-# 📡 Project Updates
+## 📡 Project Updates
 
 > **February Umbrella Update ☂️**  
 > System restructuring month for InterDead.
