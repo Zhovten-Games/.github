@@ -53,11 +53,10 @@ Leads gameplay systems architecture, technical implementation, and system-level 
 
 ## 📡 Project Updates
 
-> **February Umbrella Update ☂️**  
-> System restructuring month for InterDead.
+**February Umbrella Update ☂️**  
+System restructuring month for InterDead.
 
-February was not about individual publications —  
-it was about restructuring the project architecture.
+February was not about individual publications — it was about restructuring the project architecture.
 
 | Layer | What changed |
 |------|--------------|
