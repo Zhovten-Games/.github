@@ -71,13 +71,13 @@ February was not about individual publications — it was about restructuring th
 
 ### Cases
 
-Case 1 — Canon discipline  
+**Case 1 — Canon discipline**  
 https://lnkd.in/euKNTEZ3
 
-Case 2 — Artifact pipeline  
+**Case 2 — Artifact pipeline**  
 https://lnkd.in/eYkARzCk
 
-Case 3 — Communication architecture  
+**Case 3 — Communication architecture**  
 https://lnkd.in/estYrB87
 
-Next step: **prototype update** → then narrative and world development.
+**Next step:** prototype update → then narrative and world development.
