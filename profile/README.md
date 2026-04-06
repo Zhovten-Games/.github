@@ -53,8 +53,7 @@ Leads gameplay systems architecture, technical implementation, and system-level 
 
 ## 📡 Project Updates
 
-**February Umbrella Update ☂️**  
-System restructuring month for InterDead.
+### February Umbrella Update ☂️
 
 February was not about individual publications — it was about restructuring the project architecture.
 
@@ -64,13 +63,13 @@ February was not about individual publications — it was about restructuring th
 | **Reproducible Artifact Pipeline** | Video pipeline: `ASR → LLM → FFmpeg` |
 | **Communication Architecture** | Unified project voice through the system character **Niro** |
 
-**Results**
+### Results
 
 - 65–75% reduction in video production time  
 - stronger stylistic control  
 - unified project communication layer
 
-**Cases**
+### Cases
 
 Case 1 — Canon discipline  
 https://lnkd.in/euKNTEZ3
