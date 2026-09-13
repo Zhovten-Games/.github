@@ -60,23 +60,44 @@ Leads gameplay systems architecture, technical implementation and system-level i
 
 ## 📡 Project Updates
 
-### February 2026 — Umbrella Update ☂️
+### Summer 2026 — Umbrella Update ☂️
+
+This summer was mostly about turning several parallel experiments into one development pipeline.
+
+Three lines converged:
+
+| Layer | What changed |
+| --- | --- |
+| **Literate Programming** | Research into reproducible source generation and executable documentation returned directly to the game-development pipeline. |
+| **Scenario → Game Core** | InterDead moved toward a separate linguistic scenario source and an independent C++ Game Core with multiple projections. |
+| **IRON CREED** | The studio's recurring engineering work became a public applied IT and engineering practice whose methods return to Zhovten Games. |
+
+The current architectural direction is:
+
+Scenario
+→ C++ Game Core
+→ Unreal
+→ Web / WASM
+
+The GDD is close to completion, the scenario has been written, and the next major stage is implementation of the executable game core.
+
+→ **[Read the complete Summer 2026 Umbrella Update on zhovten.games](https://zhovten.games/blog/summer-2026-umbrella-update/)**
+
+<details>
+<summary>☂️February 2026 — Umbrella Update</summary>
 
 February was not about individual publications — it was about restructuring the project architecture.
 
-| Layer                              | What changed                                                |
-| ---------------------------------- | ----------------------------------------------------------- |
-| **Canon as a Contract**            | Canon discipline formalized through a public wiki and SSOT  |
-| **Reproducible Artifact Pipeline** | Video pipeline: `ASR → LLM → FFmpeg`                        |
-| **Communication Architecture**     | Unified project voice through the system character **Niro** |
+Layer	What changed
+Canon as a Contract	Canon discipline formalized through a public wiki and SSOT
+Reproducible Artifact Pipeline	Video pipeline: ASR → LLM → FFmpeg
+Communication Architecture	Unified project voice through the system character Niro
 
-**Results:** 65–75% reduction in video production time, stronger stylistic control, and a unified project communication layer.
+Results: 65–75% reduction in video production time, stronger stylistic control, and a unified project communication layer.
 
 → **[Read the complete February Umbrella Update on zhovten.games](https://zhovten.games/blog/february-umbrella-update)**
 
-<details>
-<summary>Cases included in this update</summary>
-
+Cases included in this update
 * **[Case 1 — Canon discipline](https://zhovten.games/blog/why-canon-contract-interdead/)**
 * **[Case 2 — Artifact pipeline](https://zhovten.games/blog/video-artifact-pipeline-interdead/)**
 * **[Case 3 — Communication architecture](https://zhovten.games/blog/niro-communication-architecture/)**
