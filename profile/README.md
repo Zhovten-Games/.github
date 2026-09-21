@@ -60,7 +60,7 @@ Leads gameplay systems architecture, technical implementation and system-level i
 
 ## 📡 Project Updates
 
-### Summer 2026 — Umbrella Update ☂️
+### ☂️ Summer 2026 — Umbrella Update
 
 This summer was mostly about turning several parallel experiments into one development pipeline.
 
