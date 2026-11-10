@@ -60,7 +60,31 @@ Leads gameplay systems architecture, technical implementation and system-level i
 
 ## 📡 Project Updates
 
-### ☂️ Summer 2026 — Umbrella Update
+### 🎃 Halloween 2026 — One Year of Zhovten Games
+
+This October, InterDead's narrative architecture became a working technical system.
+
+Three lines now define the current production baseline:
+
+| Layer | What changed |
+| --- | --- |
+| **Narrative Core** | The portable C++20 core executes game states, rules, time, knowledge and interactions through one authoritative boundary. |
+| **Playable Projections** | Console and WebAssembly expose the same underlying system; the current closed beta supports focused narrative and gameplay testing. |
+| **InterDead Workshop** | A private production workspace connects project documents, their relationships, development tools and game builds. |
+
+The current architectural direction is:
+
+Narrative source
+→ C++20 Game Core
+→ Console / WebAssembly
+→ Unreal Engine (planned)
+
+By New Year, we aim to release the first public beta of the game's narrative core: a playable WebAssembly slice covering the first two chapters. This remains a development target, dependent on content readiness and the current testing cycle. Our broader annual review is planned for the end of December; the first Unreal Engine implementation is a further goal for 2027.
+
+→ **[Read the complete Halloween 2026 anniversary update on zhovten.games](https://zhovten.games/blog/one-year-of-zhovten-games-halloween-2026/)**
+
+<details>
+<summary>☂️Summer 2026 — Umbrella Update</summary>
 
 This summer was mostly about turning several parallel experiments into one development pipeline.
 
@@ -70,7 +94,7 @@ Three lines converged:
 | --- | --- |
 | **Literate Programming** | Research into reproducible source generation and executable documentation returned directly to the game-development pipeline. |
 | **Scenario → Game Core** | InterDead moved toward a separate linguistic scenario source and an independent C++ Game Core with multiple projections. |
-| **IRON CREED** | The studio's recurring engineering work became a public applied IT and engineering practice whose methods return to Zhovten Games. |
+| **IRONCREED** | The studio's recurring engineering work became a public applied IT and engineering practice whose methods return to Zhovten Games. |
 
 The current architectural direction is:
 
@@ -82,6 +106,8 @@ Scenario
 The GDD is close to completion, the scenario has been written, and the next major stage is implementation of the executable game core.
 
 → **[Read the complete Summer 2026 Umbrella Update on zhovten.games](https://zhovten.games/blog/summer-2026-umbrella-update/)**
+
+</details>
 
 <details>
 <summary>☂️February 2026 — Umbrella Update</summary>
